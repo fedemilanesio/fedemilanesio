@@ -9,7 +9,7 @@ I decided to join the data analytics world since I believe data-driven decisions
 * 🌍  I'm based in Torino, Italy
 * ✉️  You can contact me at [fedemilanesio27@gmail.com](mailto:fedemilanesio27@gmail.com)
 * 🧠  I'm learning Economics & Data Science at university of Genova (subjects I'm thrilled to learn this year: Big Data techniques, Risk Management, Statistical Forecasting)
-* 🤝  I'm open to collaborating on Data Scientist projects
+* 🤝  I'm open to collaborating on Data Science projects
 
 ### Skills
 
