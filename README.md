@@ -4,7 +4,7 @@ Hi 👋 My name is Federico Milanesio
 Data Science student
 --------------------
 
-I decided to join the data analytics world since I believe data-driven decisions should be employed in and out a working environment, in order to limit uncertainty in decision making. I began this journey a couple of years ago, exploiting free online sources to learn some technical tools and now I'm currently attending university courses which provide precious inisghts and a useful academic knowledge in the sector of D.S. (more specifically applied to Economics).
+I decided to join the data analytics world since I believe data-driven decisions should be employed in and out a working environment, in order to limit uncertainty in decision making. I began this journey a couple of years ago, exploiting free online sources to learn some technical tools and now I'm currently attending university courses which provide precious inisghts and a useful academic knowledge in the sector of D.S. (applied to Economics).
 
 * 🌍  I'm based in Torino, Italy
 * ✉️  You can contact me at [fedemilanesio27@gmail.com](mailto:fedemilanesio27@gmail.com)
