@@ -4,11 +4,10 @@ Hi 👋 My name is Federico Milanesio
 Data Science student
 --------------------
 
-I decided to join the data analytics world since I believe data-driven decisions should be employed in and out a working environment, in order to limit uncertainty in decision making. I began this journey a couple of years ago, exploiting free online sources to learn some technical tools and soon I will graduate to a Master degree which provide precious inisghts and a useful academic knowledge in the sector of D.S. (with applications in Economics).
+I chose to pursue a career in data analytics because I believe that data-driven decision-making should be embraced both within and beyond the workplace to minimize uncertainty. A few years ago, I began this journey by leveraging free online resources to build my technical skills. In 2024, I earned a Master’s Degree in Economics & Data Science, exploring various aspects of the field. Among the courses offered, I was particularly drawn to those focused on quantitative finance, as they align closely with my interests and career aspirations.
 
 * 🌍  I'm based in Torino, Italy
 * ✉️  You can contact me at [fedemilanesio27@gmail.com](mailto:fedemilanesio27@gmail.com)
-* 🧠  I'm learning Economics & Data Science at university of Genova (subjects I'm thrilled to learn this year: Big Data techniques, Risk Management, Statistical Forecasting)
 * 🤝  I'm open to collaborating on Data Science projects
 
 ### Skills
