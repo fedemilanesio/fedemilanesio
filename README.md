@@ -6,7 +6,7 @@ Economics & Data Science graduate
 
 I chose to pursue a career in data analytics because I believe that data-driven decision-making should be embraced both within and beyond the workplace to minimize uncertainty. A few years ago, I began this journey by leveraging free online resources to build my technical skills. In 2024, I earned a Master’s Degree in Economics & Data Science, exploring various aspects of the field. Among the courses offered, I was particularly drawn to those focused on Quantitative Finance, as they align closely with my interests and career aspirations.
 
-* 🌍  I'm based in Torino, Italy
+* 🌍  I'm based in Genova/Torino, Italy
 * ✉️  You can contact me at [fedemilanesio27@gmail.com](mailto:fedemilanesio27@gmail.com)
 * 🤝  I'm open to collaborating on Data Science projects
 
